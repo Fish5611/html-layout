@@ -1,0 +1,32 @@
+.box {
+  display: flex;
+  float:left;
+  }
+
+
+.left {
+  width: 33%;
+  height: 100%;
+  background-color: #3790DE;
+
+}
+.middle {
+  width:33%;
+  height: 100%;
+  background-color: #18E3C3;
+
+}
+.right{
+  width: 33%;
+  height:600px;
+  background-color: #B3E98D;
+}
+
+.picture {
+  height: 228px;
+  width: 248px;
+  background-color: red;
+  color: white;
+  text-align: center;
+
+}

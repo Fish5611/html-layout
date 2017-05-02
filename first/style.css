@@ -1,4 +1,4 @@
-/*.header {
+.header {
   height: 130px;
   width: 100%;
   background-color: #444444;
@@ -23,8 +23,8 @@
   background-color: black;
   position: absolute;
   bottom: 0;
-}*/
-html,body{
+}
+/*html,body{
   height: 100%;
 }
 
@@ -39,4 +39,4 @@ html,body{
   background-color: blue;
   display:inline;
 
-}
+}*/
